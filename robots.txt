@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://zurikagu.github.io/sitemap/sitemap_index.zurikagu
+Sitemap: https://zurikagu.github.io/MBx/sitemap_index.zurikagu
+Sitemap: https://zurikagu.github.io/xaP/sitemap_index.zurikagu
+Sitemap: https://zurikagu.github.io/Skm/sitemap_index.zurikagu
+Sitemap: https://zurikagu.github.io/OaT/sitemap_index.zurikagu
+Sitemap: https://zurikagu.github.io/VkZ/sitemap_index.zurikagu
+Sitemap: https://zurikagu.github.io/wfI/sitemap_index.zurikagu
+Sitemap: https://zurikagu.github.io/TLB/sitemap_index.zurikagu
+Sitemap: https://zurikagu.github.io/ynp/sitemap_index.zurikagu
+Sitemap: https://zurikagu.github.io/uYv/sitemap_index.zurikagu
+Sitemap: https://zurikagu.github.io/aoM/sitemap_index.zurikagu
+Sitemap: https://zurikagu.github.io/LVo/sitemap_index.zurikagu
+Sitemap: https://zurikagu.github.io/Hju/sitemap_index.zurikagu
+Sitemap: https://zurikagu.github.io/mdh/sitemap_index.zurikagu
+Sitemap: https://zurikagu.github.io/ydl/sitemap_index.zurikagu
+Sitemap: https://zurikagu.github.io/tMw/sitemap_index.zurikagu
+Sitemap: https://zurikagu.github.io/hWJ/sitemap_index.zurikagu
+Sitemap: https://zurikagu.github.io/ckY/sitemap_index.zurikagu
+Sitemap: https://zurikagu.github.io/irD/sitemap_index.zurikagu
+Sitemap: https://zurikagu.github.io/Suw/sitemap_index.zurikagu
+Sitemap: https://zurikagu.github.io/Cvp/sitemap_index.zurikagu
